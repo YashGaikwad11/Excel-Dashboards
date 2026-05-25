@@ -3,7 +3,7 @@
 ## Dashboard Preview
 
 <p align="center">
-  <img src="./Vrinda%20Store%20Data%20Analysis/Dashboard.png" width="900">
+  <img src="Dashboard.png" width="900">
 </p>
 
 ---
